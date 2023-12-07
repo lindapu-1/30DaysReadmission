@@ -1,11 +1,15 @@
 # 30DaysReadmission
 
 ## Group Member (Group 22)
-Pu Rui Ling 3035917989
+**Pu Rui Ling 3035917989
+
 Jiang Xiao 3035851894
+
 Lyu Zhiheng 3035772432
+
 Wong Wai Chak 3035784186
-CHAN Hiu Yu 3035784162
+
+CHAN Hiu Yu 3035784162**
 
 
 ## Overview
