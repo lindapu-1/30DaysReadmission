@@ -1,6 +1,12 @@
 # 30DaysReadmission
 
 ## Group Member (Group 22)
+Pu Rui Ling 3035917989
+CHAN Hiu Yu 3035784162
+Lyu Zhiheng 3035772432
+Wong Wai Chak 3035784186
+Jiang Xiao 3035851894
+
 
 ## Overview
 The objective of this project is to develop statistical models for predicting hospital readmissions using Electronic Health Record (EHR) data or multimodal data. Participants have the flexibility to choose one or both modalities for their prediction. The performance of the models will be evaluated through a Kaggle competition. Participants are required to participate in the competition and submit our results on the provided Kaggle link.
@@ -11,4 +17,8 @@ The objective of this project is to develop statistical models for predicting ho
 (kaggle link https://www.kaggle.com/competitions/30-day-all-cause-hospital-readmission-prediction/leaderboard)
 
 
+##Files
+Please see project detals in **Proposal.pdf** and technical report in **report.pdf**
+Please see all ml models code and fusion network code in **ALL_Machine_Learning_Model.ipynb**
+Please see LSTM，GNN，Metric Learning code in **LSTM，GNN，Metric Learning.ipynb**
 
