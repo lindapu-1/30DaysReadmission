@@ -21,8 +21,10 @@ The objective of this project is to develop statistical models for predicting ho
 (kaggle link https://www.kaggle.com/competitions/30-day-all-cause-hospital-readmission-prediction/leaderboard)
 
 
-##Files
+## Files
 Please see project detals in **Proposal.pdf** and technical report in **report.pdf**
+
 Please see all ml models code and fusion network code in **ALL_Machine_Learning_Model.ipynb**
+
 Please see LSTM，GNN，Metric Learning code in **LSTM，GNN，Metric Learning.ipynb**
 
